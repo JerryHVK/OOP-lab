@@ -1,0 +1,31 @@
+Q1: Try to add a method addDigitalVideoDisc which allows to pass an arbitrary number of 
+arguments for dvd. Compare to an array parameter. What do you prefer in this case?
+
+A1: It looks like pass an arbitrary number of arguments for dvd would be preferred. If we use an array, we need to specify the number of elements to the function. But When we use the arbitray number function, it does not neccessary.
+
+
+
+Q2: After the call of swap(jungleDVD, cinderellaDVD) why does the title of these two objects still remain?
+
+A2: In function swap, we only pass the values of jungleDVD and cinderellaDVD, not the variable. So that after swap, there is no change in the value of 2 variables in main function.
+
+
+Q3: After the call of changeTitle(jungleDVD, cinderellaDVD.getTitle()) why is the title of the JungleDVD changed?
+
+A3: the function setTitle() affects the real object, so it changes the title of the object. That is the reason why the title of JungleDVD changes.
+
+Conclusion: Java is always a pass by value programming language.
+
+
+
+
+
+
+Q4: Write a toString() method for the DigitalVideoDisc class. What should be the return type of 
+this method?
+
+A4: it returns null
+
+
+
+
