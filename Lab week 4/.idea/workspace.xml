@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="639c86de-e137-4e1c-8054-812223e9ec24" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lab week 1/Example/Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 1/Example/Calculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 1/Example/FirstDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 1/Example/FirstDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 1/Example/HelloNameDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 1/Example/HelloNameDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 1/Example/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 1/Example/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 1/Example/ShowTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 1/Example/ShowTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 1/Example/SolveEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 1/Example/SolveEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 1/Exercise/ChoosingOption.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 1/Exercise/ChoosingOption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 1/Exercise/InputFromKeyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 1/Exercise/InputFromKeyboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 2/AimsProject/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 2/AimsProject/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 2/AimsProject/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 2/AimsProject/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 2/AimsProject/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 2/AimsProject/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 2/AimsProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 2/AimsProject/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 2/AimsProject/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 2/AimsProject/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 2/AimsProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 2/AimsProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 2/AimsProject/AimsProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 2/AimsProject/AimsProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 2/AimsProject/src/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 2/AimsProject/src/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 2/AimsProject/src/DigitalVideoDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 2/AimsProject/src/DigitalVideoDisc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 2/AimsProject/untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 2/AimsProject/untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/.idea/Lab week 3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/.idea/Lab week 3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/AimsProject/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/AimsProject/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/AimsProject/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/AimsProject/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/AimsProject/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/AimsProject/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/AimsProject/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/AimsProject/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/AimsProject/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/AimsProject/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/AimsProject/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/AimsProject/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/AimsProject/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/AimsProject/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/AimsProject/AimsProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/AimsProject/AimsProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/AimsProject/src/aims/cart/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/AimsProject/src/aims/cart/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/AimsProject/src/aims/disc/DigitalVideoDisc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/AimsProject/src/aims/disc/DigitalVideoDisc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/AimsProject/src/aims/store/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/AimsProject/src/aims/store/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/AimsProject/src/test/TestPassingParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/AimsProject/src/test/TestPassingParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/AimsProject/untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/AimsProject/untitled/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/OtherProjects/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/OtherProjects/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/OtherProjects/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/OtherProjects/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/OtherProjects/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/OtherProjects/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/OtherProjects/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/OtherProjects/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/OtherProjects/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/OtherProjects/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/OtherProjects/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/OtherProjects/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/OtherProjects/Lab week 1/Example/Calculation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/OtherProjects/Lab week 1/Example/Calculation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/OtherProjects/Lab week 1/Example/FirstDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/OtherProjects/Lab week 1/Example/FirstDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/OtherProjects/Lab week 1/Example/HelloNameDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/OtherProjects/Lab week 1/Example/HelloNameDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/OtherProjects/Lab week 1/Example/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/OtherProjects/Lab week 1/Example/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/OtherProjects/Lab week 1/Example/ShowTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/OtherProjects/Lab week 1/Example/ShowTwoNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/OtherProjects/Lab week 1/Example/SolveEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/OtherProjects/Lab week 1/Example/SolveEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/OtherProjects/Lab week 1/Exercise/ChoosingOption.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/OtherProjects/Lab week 1/Exercise/ChoosingOption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/OtherProjects/Lab week 1/Exercise/InputFromKeyboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/OtherProjects/Lab week 1/Exercise/InputFromKeyboard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/OtherProjects/OtherProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/OtherProjects/OtherProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/OtherProjects/garbage/garbage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/OtherProjects/garbage/garbage.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/OtherProjects/garbage/src/garbage/ConcatenationInLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/OtherProjects/garbage/src/garbage/ConcatenationInLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/OtherProjects/garbage/src/garbage/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/OtherProjects/garbage/src/garbage/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/OtherProjects/out/production/garbage/garbage/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/OtherProjects/out/production/garbage/garbage/text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab week 3/answers.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab week 3/answers.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2PpoKqK1v5toW9eFDoIYE3X95WC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "E:/OneDrive - Hanoi University of Science and Technology/Documents/2022.2/OOP/LearningGUI"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="639c86de-e137-4e1c-8054-812223e9ec24" name="Changes" comment="" />
+      <created>1684163322835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684163322835</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
