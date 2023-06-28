@@ -1,46 +1,60 @@
 package aims.store;
 
-import aims.disc.DigitalVideoDisc;
+import aims.media.DigitalVideoDisc;
+import aims.media.Media;
+
+import java.util.ArrayList;
 
 public class Store {
     public static final int MAX_NUMBERS_STORE = 100;
-    private DigitalVideoDisc itemsInStore[] = new DigitalVideoDisc[MAX_NUMBERS_STORE];
-    private int qtyItem = 0;
+    private ArrayList<Media> itemsInStore = new ArrayList<Media>();
 
-    public void addDVD(DigitalVideoDisc dvd){
-        itemsInStore[qtyItem] = dvd;
-        qtyItem++;
+    public boolean inStore(String title){
+        for(Media media : itemsInStore){
+            if(media.getTitle().equalsIgnoreCase(title)){
+                return true;
+            }
+        }
+        return false;
+    }
+
+    public void addMedia(Media media){
+        if(itemsInStore.size() == MAX_NUMBERS_STORE){
+            System.out.println("The store is full, no added media");
+            return;
+        }
+        itemsInStore.add(media);
         System.out.println("Added Completely!");
     }
 
-    public void removeDVD(DigitalVideoDisc dvd){
-        int count = 0;
-        for(int i=0; i<qtyItem; i++){
-            if(itemsInStore[i].getTitle().equals(dvd.getTitle())){
-                count++;
-                qtyItem--;
-                for(int j=i; j<qtyItem; j++) {
-                    itemsInStore[j] = itemsInStore[j + 1];
-                }
-                i--;
-            }
+    public void removeMedia(Media media){
+        if(itemsInStore.isEmpty()){
+            System.out.println("The store is empty, no removal was done");
+            return;
         }
-        if(count == 0){
+        int beforeRemove = itemsInStore.size();
+        itemsInStore.remove(media);
+        int afterRemove = itemsInStore.size();
+        if(beforeRemove == afterRemove){
             System.out.println("This disc is not in the store! No removal was conducted");
         }
         else{
-            System.out.println("Removed " + (count + " ") + "successfully");
+            System.out.println("Removed " + ((beforeRemove - afterRemove) + " ") + "successfully");
         }
         System.out.println("The store AFTER remove: ");
-        for(int i=0; i<qtyItem; i++){
-            System.out.println(itemsInStore[i].getTitle());
+        for(Media i : itemsInStore){
+            printTheStoreList();
         }
     }
 
     public void printTheStoreList(){
         System.out.println("The list in store");
-        for(int i=0; i<qtyItem; i++){
-            itemsInStore[i].toString();
+        for(Media i : itemsInStore){
+            i.printMedia();
         }
+    }
+
+    public ArrayList<Media> getItemsInStore(){
+        return itemsInStore;
     }
 }

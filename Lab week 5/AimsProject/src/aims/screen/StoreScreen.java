@@ -1,14 +1,19 @@
 package aims.screen;
 
+import aims.cart.Cart;
+import aims.media.Media;
+import aims.media.Playable;
 import aims.store.Store;
 
-import aims.
 import javax.swing.*;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.util.ArrayList;
 
 public class StoreScreen extends JFrame {
     private Store store;
+    private Cart cart;
 
     JPanel createNorth(){
         JPanel north = new JPanel();
@@ -63,6 +68,37 @@ public class StoreScreen extends JFrame {
     JPanel createCenter(){
         JPanel center = new JPanel();
         center.setLayout(new GridLayout(3, 3, 2, 2));
-        ArrayList<Media>
+        ArrayList<Media> mediaInStore = store.getItemsInStore();
+        for(int i=0; i<9; i++){
+            MediaStore cell = new MediaStore(mediaInStore.get(i), cart);
+            center.add(cell);
+        }
+
+        return center;
     }
+
+
+
+    public StoreScreen(Store store, Cart cart){
+        this.store = store;
+        this.cart = cart;
+        Container cp = getContentPane();
+        cp.setLayout(new BorderLayout());
+
+        cp.add(createNorth(), BorderLayout.NORTH);
+        cp.add(createCenter(), BorderLayout.CENTER);
+
+        setVisible(true);
+        setTitle("Store");
+        setSize(1024, 768);
+
+        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+
+    }
+
+//    public void main(String[] args){
+//        new StoreScreen(store);
+//    }
+
+
 }
